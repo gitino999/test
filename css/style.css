@@ -26,7 +26,6 @@
 }
 
 #main .small-photo {
-
     background-color: pink;
     width: 250px;
     height: 850px;
@@ -34,7 +33,7 @@
     float: left;
 }
 
-#main # big-photo {
+#main #big-photo {
     background-color: purple;
     width: 500px;
     height: 850px;
